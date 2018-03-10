@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConsistenciaProposta\ConsistenciaProposta.csproj" />
+    <ProjectReference Include="..\ContaCartao\ContaCartao.csproj" />
+  </ItemGroup>
+
+</Project>
